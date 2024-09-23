@@ -8,18 +8,14 @@ Welcome to my GitHub! I'm a **Software Developer** with a passion for building s
 - At **Jobrock**, I’m enhancing the recruiting process with **Generative AI** features that help recruiters create and configure prompts.
 - In the past, I helped **FreePl** Create and enhance supply chain project.
 - For **Kapreet**, I built a vehicle maintenance management dashboard, allowing companies to track services and help drivers find service stations quickly.
-
+  
 ---
 
 ## 🔧 Tech I Love:
 - **Languages**: GO, C#, JavaScript, TypeScript, Python, SQL
 - **Databases**: PostgreSQL, SQL Server, MongoDB, CosmosDB
 - **Tools & Concepts**: Dapper, SQL-Kata, Entity Framework, CQRS, Microservices
-
-
-## 🌱 What I’m Learning:
-I’m currently expanding my skills in **AI tools** and further improving my **system design** knowledge. I believe in continuous learning, whether it's through new programming languages, frameworks, or design principles.
-
+  
 ---
 
 ## 💬 Let’s Talk!
@@ -28,7 +24,7 @@ I enjoy connecting with fellow developers, learning new things, and collaboratin
 - Database optimizations and performance tuning
 - AI in recruitment or any other cool tech ideas
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) or shoot me an [email](mailto:your-email@example.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) or shoot me an [email](mailto:mokhtar.s.mokhtar@outlook.com).
 
 ---
 
