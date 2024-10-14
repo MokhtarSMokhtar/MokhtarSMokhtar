@@ -24,7 +24,7 @@ I enjoy connecting with fellow developers, learning new things, and collaboratin
 - Database optimizations and performance tuning
 - AI in recruitment or any other cool tech ideas
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/your-profile) or shoot me an [email](mailto:mokhtar.s.mokhtar@outlook.com).
+You can find me on [LinkedIn](https://www.linkedin.com/in/mokhtars/) or shoot me an [email](mailto:mokhtar.s.mokhtar@outlook.com).
 
 ---
 
