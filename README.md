@@ -1,12 +1,12 @@
 # Hi there, I'm Mokhtar 👋
 
-Welcome to my GitHub! I'm a **Software Developer** with a passion for building scalable, high-performance systems. I love working on backend architecture, optimizing databases, and occasionally diving into full-stack development. My goal is to create solutions that make people's lives easier while writing clean, efficient code.
+Welcome to my GitHub! I'm a **Software Developer** with a passion for building scalable, high-performance systems. I love working on the backend architecture, optimizing databases, and occasionally diving into full-stack development. My goal is to create solutions that make people's lives easier while writing clean, efficient code.
 
 ---
 
 ## 👨‍💻 What I’m Working On:
 - At **Jobrock**, I’m enhancing the recruiting process with **Generative AI** features that help recruiters create and configure prompts.
-- In the past, I helped **FreePl** Create and enhance supply chain project.
+- In the past, I helped **FreePl** Create and enhance supply chain projects.
 - For **Kapreet**, I built a vehicle maintenance management dashboard, allowing companies to track services and help drivers find service stations quickly.
   
 ---
@@ -14,7 +14,9 @@ Welcome to my GitHub! I'm a **Software Developer** with a passion for building s
 ## 🔧 Tech I Love:
 - **Languages**: GO, C#, JavaScript, TypeScript, Python, SQL
 - **Databases**: PostgreSQL, SQL Server, MongoDB, CosmosDB
-- **Tools & Concepts**: Dapper, SQL-Kata, Entity Framework, CQRS, Microservices
+- **Frameworks**:  GO Standard, .Net Core, Nodejs, Net Framework,  Bootstrap, Angular
+- **Tools & Concepts**:  System Design, Design Patterns, OOP, OOD, Unit Testing, Microservice, CQRS
+
   
 ---
 
